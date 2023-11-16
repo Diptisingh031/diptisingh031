@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
-HEYY!!✌✌<br><br>This side Dipti Singh, an engineering student pursuing<br>BTech in Automation & Robotics✨<br>
+#
+✌✌<br><br>This side Dipti Singh, an engineering student pursuing<br>BTech in Automation & Robotics✨<br>
 
 
 ## 🌐 Socials:
