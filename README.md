@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 HEYY!!✌✌<br><br>This side Dipti Singh, an engineering student pursuing<br>BTech in Automation & Robotics✨<br>
 
@@ -18,5 +17,4 @@ HEYY!!✌✌<br><br>This side Dipti Singh, an engineering student pursuing<br>BT
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
