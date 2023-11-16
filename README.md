@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#
 ✌✌<br><br>This side Dipti Singh, an engineering student pursuing<br>BTech in Automation & Robotics✨<br>
 
 
